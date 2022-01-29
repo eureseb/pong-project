@@ -1,1 +1,1 @@
-# pong-project
+# Assembly Game: Pong
